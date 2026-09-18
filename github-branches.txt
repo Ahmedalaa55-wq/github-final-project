@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert eaacb4d Revert "Fix copyright year in README"
+  bug-fix-typo   e808e7d Fix copyright year in README
+  main           e808e7d [origin/main] Fix copyright year in README
